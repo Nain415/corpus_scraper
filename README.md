@@ -1,6 +1,7 @@
 # Mini Reddit Corpus Scraper
 <p align="center">
-<img src=>
+<img src=https://user-images.githubusercontent.com/78244259/174459056-5669b65e-40b9-44c5-b6bb-227a41590342.png>
+
 </p>
 
 ## Sample Output (search for the string "handsome" in R/UBC from 2007-2018)
